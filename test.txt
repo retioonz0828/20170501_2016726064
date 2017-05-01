@@ -1,1 +1,6 @@
 Hi, I`m master branch.
+<<<<<<< HEAD
+=======
+
+Hi, I`m second branch.
+>>>>>>> branch1
